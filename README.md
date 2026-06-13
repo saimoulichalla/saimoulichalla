@@ -67,29 +67,6 @@ I'm a **DevOps Engineer** with **3.5+ years** of hands-on experience designing a
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimoulichalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Mouli's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimoulichalla&theme=tokyonight&hide_border=true" alt="Sai Mouli's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimoulichalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimoulichalla&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Build Something Together
 
